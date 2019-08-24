@@ -24,7 +24,11 @@ Application Flow and Database Schema – Deep and Sarthak
 # Project Highlights
 
 Code First Approach
+
 Graphs
+
 Sessions
+
 Two categories of user module
+
 Many to many relationship implementation in codefirst approach.
