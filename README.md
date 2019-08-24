@@ -1,4 +1,4 @@
-# POS
+# Ponit Of Sale System
 Developed functionalities similar to Point of sale system in ASP.NET using Entity Framework
 
 STEPS TO INSTALL PROJECT 
@@ -21,7 +21,7 @@ b. Add to Cart/Checkout – Functionality – Used Dictionary data structure to 
 c. Login/Logout
 Application Flow and Database Schema – Deep and Sarthak 
 
-#Project Highlights
+# Project Highlights
 
 Code First Approach
 Graphs
